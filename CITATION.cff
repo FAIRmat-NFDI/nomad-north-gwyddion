@@ -25,10 +25,11 @@ abstract:
   nomad-north-gwyddion is a nomad-north-desktop-base NORTH tool plugin 
   for NOMAD (https://nomad-lab.eu/nomad-lab/).  
 
-  The work is funded by the Deutsche Forschungsgemeinschaft  
-  (DFG, German Research Foundation) - 460197019 (FAIRmat)  (https://gepris.dfg.de/project/460197019?lang=en)  
+  The work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+  through the following projects:  
+  FAIRmat - Project number: 460197019 (https://gepris.dfg.de/project/460197019?lang=en)  
   and  
-  (DFG, German Research Foundation) - 417590517 (CRC1415)  (https://gepris.dfg.de/project/417590517?lang=en).
+  CRC1415 - Project number: 417590517 (https://gepris.dfg.de/project/417590517?lang=en).
 license: MIT
 funding:
   - name: Deutsche Forschungsgemeinschaft

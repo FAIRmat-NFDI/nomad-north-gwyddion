@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: 'nomad-north-gwyddion: NOMAD NORTH plugin for Gwyddion'
-version: 0.2.1
+version: 0.2.2
 message:
   If you use this software, please cite it using the
   metadata from this file.
